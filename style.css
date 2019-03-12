@@ -10,6 +10,6 @@ body {
    color: #eaecef;
 }
 img{
-    float: right; /* Выравнивание по правому краю  */ 
-    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+    float: right;  
+    margin: 7px 0 7px 7px; 
 }
